@@ -10,7 +10,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "test": "jest"
+    "test": "jest",
+    "server": "node index.js"
   },
   "eslintConfig": {
     "extends": [
